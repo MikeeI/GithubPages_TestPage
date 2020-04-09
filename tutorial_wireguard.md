@@ -12,3 +12,4 @@ source: https://www.digitalocean.com/community/tutorials/how-to-create-a-point-t
 
     sudo add-apt-repository ppa:wireguard/wireguard
     sudo apt-get update
+    sudo apt-get install wireguard wireguard-dkms wireguard-tools
